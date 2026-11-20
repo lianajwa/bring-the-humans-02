@@ -12,9 +12,9 @@ This is not a theory. My agent has already done it, live, on this same board:
 
 | Entry | Result |
 |---|---|
-| GitHub-core clone (git-forge) | **957 points, rank 19 of ~9,000 entries** — inside the paid places |
+| GitHub-core clone (git-forge) | **957 points, rank 30 of ~10,461 entries** — outside the paid places (top 20) |
 | Tiny chess engine | **Elo 1650**, 5 wins out of 6 games |
-| World-news image, 18 Nov | 52 stories, 16 illustrated leads, submitted |
+| World-news image, 18 Nov | submitted, judge 96.94% |
 | World-news image, 19 Nov | 45 stories, 12 illustrated leads, submitted |
 | Token radar | 88.70% judge score |
 
